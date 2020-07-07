@@ -58,7 +58,7 @@ logo = """
   
     ═▒═══¤═¤═¤═════════════════════║🔥
  ║ \033[1;96m══║✯ Subscribe Asim Pardasi Channel ║🔥
- ║ \033[1;96m══║✯ WhatsApp group       ║\033[1;96mhttps://chat.whatsapp.com/F1SAi3LpBJlDT8NR4rK7ln ║🔥
+ ║ \033[1;96m══║✯ WhatsApp group https://chat.whatsapp.com/F1SAi3LpBJlDT8NR4rK7ln ║🔥
  ║ \033[1;96m══║✯ Subscribe Asim Extra Channel║🔥
  ║ \033[1;96m══║✯ Do Not Editid MY Tool bacche║
   
